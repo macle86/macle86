@@ -1,3 +1,4 @@
+# Freedom is not free
 - Wigo AiLab 연구원 (https://github.com/wigoAI)
 - 섬세한사람들 모임장 (https://github.com/seomse)
 
@@ -5,4 +6,3 @@
 
 ![macle github stats](https://github-readme-stats.vercel.app/api?username=macle86&show_icons=ture&hide_rank=true&count_private=true&hide=prs,stars,issues)
 
-# freedom is not free
