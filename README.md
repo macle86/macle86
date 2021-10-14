@@ -1,5 +1,5 @@
 # Freedom is not free
-- Wigo AiLab 연구원 (https://github.com/wigoAI) (https://github.com/wigoDev)
+- Wigo AiLab 수석연구원 (https://github.com/wigoAI) (https://github.com/wigoDev)
 - 섬세한사람들 모임장 (https://github.com/seomse)
 - 블로그 (https://macle.dev)
 - 런온(RUNON) (https://runon.io/)
