@@ -1,7 +1,6 @@
 # Freedom is not free
 - 런온(RUNON) (https://runon.io) (https://github.com/runonio) 
-  - 자산관리 플랫폼
-  - 설립준비중
+  - 로보어드바이저 개발중
 - Wigo AiLab 수석연구원 (http://moara.ai) (https://github.com/wigoAI) (https://github.com/wigoDev)
 - 개발 스터디 모임, 섬세한사람들 모임장 (https://www.seomse.com) (https://github.com/seomse)
 
